@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "196421400069",
+    "project_id": "slhc-desk-app",
+    "storage_bucket": "slhc-desk-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196421400069:android:e7ae05284c9a304a9fce6c",
+        "android_client_info": {
+          "package_name": "com.example.slhc_desk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196421400069-pjsumh9dpe09ialgm65hb24rcn88pg1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh6w3DRRoK_EAOkfOcmQymM5xy4BUKKAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196421400069-pjsumh9dpe09ialgm65hb24rcn88pg1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196421400069:android:ebd7a01b59e66a179fce6c",
+        "android_client_info": {
+          "package_name": "com.example.slhc_deskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196421400069-pjsumh9dpe09ialgm65hb24rcn88pg1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh6w3DRRoK_EAOkfOcmQymM5xy4BUKKAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196421400069-pjsumh9dpe09ialgm65hb24rcn88pg1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

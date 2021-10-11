@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SLHC-DESK-APP</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_user_create_account">New User? Create Account</string>
+    <string name="slhc_desk_app">SLHC DESK APP</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+    <string name="phone_no">Phone No</string>
+    <string name="logout">Logout</string>
+    <string name="book_flight_ticket_here">Book Flight Ticket Here.</string>
+    <string name="pay">Pay</string>
+    <string name="label_buy_now">Purchase</string>
+</resources>
